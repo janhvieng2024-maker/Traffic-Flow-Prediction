@@ -113,6 +113,6 @@ The comparison of multiple classification models provides insight into their per
 
 ## Project Files
 
-- `Traffic_Flow_Prediction.ipynb` – Google Collab Notebook containing the complete implementation of the traffic classification project, including data analysis, feature engineering, machine learning model development, and performance evaluation.
+- `Traffic_Flow_Prediction.ipynb` – Google Colab Notebook containing the complete implementation of the traffic classification project, including data analysis, feature engineering, machine learning model development, and performance evaluation.
 - `Metro_Interstate_Traffic_Volume.csv` – Dataset used for the project.
 - `README.md` – Project documentation.
